@@ -757,7 +757,7 @@ service section
     color: var(--skin-color);
 }
 .service-section .service-item-inner h3{
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 600;
     color: var(--text-black-700);
     margin: 0 0 10px;
