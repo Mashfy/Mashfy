@@ -272,7 +272,7 @@ header
     line-height: 36px;
     height: 40px;
     width: 40px;
-    font-size: 2.3vmin;
+    font-size: 35px;
     color: var(--skin-color);
     border-radius: 50%;
     border: 2px solid var(--skin-color);
@@ -364,7 +364,7 @@ navigation menu
     height: 40px;
     width: 40px;
     display: block;
-    font-size: 2.4vmin;
+    font-size: 40px;
     line-height: 35px;
     border-radius: 50%;
     position: absolute;
@@ -398,7 +398,7 @@ navigation menu
 }
 .nav-menu ul li a{
     display: inline-block;
-    font-size: 2.3vmin;
+    font-size: 30px;
     font-weight: 600;
     color: var(--text-black-600);
     padding: 5px 30px;
