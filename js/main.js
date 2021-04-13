@@ -302,6 +302,7 @@ testimonial slider
 
 /*----------- hide all section except active -------------*/
 
+
 (() =>{
    const sections = document.querySelectorAll(".section");
    sections.forEach((section) =>{
@@ -312,4 +313,12 @@ testimonial slider
 })();
 
 
+window.addEventListener("load", () =>{
+  // preloader
+  document.querySelector(".preloader").classList.add("fade-out");
+  setTimeout(() => {
+  document.querySelector(".preloader").style.display="none";
+    
+  }, 600)
+})
 
