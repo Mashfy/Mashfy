@@ -448,7 +448,7 @@ navigation menu
 }
 .nav-menu ul li a{
     display: inline-block;
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 600;
     color: var(--text-black-600);
     padding: 5px 30px;
@@ -490,7 +490,7 @@ home section
 }
 .home-section .home-text p{
     color: var(--text-black-300);
-    font-size: 16px;
+    font-size: 20px;
     text-transform: capitalize;
     margin: 0;
 }
