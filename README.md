@@ -35,8 +35,6 @@
 <img height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/adobeaftereffects.svg" />
 
 <br />
-<br />
-
 ---
 
 <details>
