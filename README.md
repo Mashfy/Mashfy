@@ -9,12 +9,12 @@
 
 <table width="100%"> 
   <tr>
-  <td width="50%">
+  <td width="100%">
       
 &nbsp; <br> [![Spotify](https://novatorem-git-master-mashfy.vercel.app/api/spotify)](https://open.spotify.com/user/31owd2iokwd26vgpd2d5bc6zff7e)
 
   </td>
-  <td width="50%">
+  <td width="100%">
 
 
 <details>
