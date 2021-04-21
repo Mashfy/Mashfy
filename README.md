@@ -5,3 +5,10 @@
 - 👷 I’m currently trying to taste everything I explore in CS
 - 💭 A dreamer
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-theta-khaki.vercel.app
+/api?username=Mashfy&show_icons=true&hide_border=true" />
+
+</details>
