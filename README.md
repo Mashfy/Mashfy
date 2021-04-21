@@ -11,7 +11,6 @@
 
 ### Connect with me:
 
-[<img align="left"  width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://mashfy.github.io/Mashfy/)
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" />](https://www.facebook.com/badrul.mash/)
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />](https://www.linkedin.com/in/mashfy/)
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />](https://www.instagram.com/badrul_alam__/)
