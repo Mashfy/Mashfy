@@ -12,6 +12,8 @@
 ### Connect with me:
 
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" />](https://www.facebook.com/badrul.mash/)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/LinkedIn.svg" />](https://www.linkedin.com/in/mashfy/)
+
 
 <br />
 
