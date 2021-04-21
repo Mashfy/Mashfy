@@ -7,7 +7,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem1-mashfy.vercel.app/api/spotify-playing" alt="Mashfy's Spotify Playing" width="350" />](https://open.spotify.com/user/31owd2iokwd26vgpd2d5bc6zff7e)
+[![Spotify](https://novatorem1-indol.vercel.app/api/spotify)](https://open.spotify.com/user/31owd2iokwd26vgpd2d5bc6zff7e)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
