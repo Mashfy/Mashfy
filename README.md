@@ -7,8 +7,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-git-master-mashfy.vercel.app
-/api/spotify-playing" alt="Mashfy Spotify Playing" width="350" />](https://open.spotify.com/user/31owd2iokwd26vgpd2d5bc6zff7e)
+[<img src="https://novatorem-mashfy.vercel.app/api/spotify-playing" alt="Mashfy Spotify Playing" width="350" />](https://open.spotify.com/user/31owd2iokwd26vgpd2d5bc6zff7e)
 
 
 <details>
