@@ -37,7 +37,7 @@
 
 ---
 
-<img align="left" alt="Mashfy's GitHub Stats" src="https://github-readme-stats-mashfy.vercel.app/api?username=Mashfy&show_icons=true&hide_border=true" />
+<img align="left" alt="Mashfy's GitHub Stats" src="https://github-readme-stats-mashfy.vercel.app/api?username=Mashfy&include_all_commits=true&show_icons=true&hide_border=true" />
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
 
