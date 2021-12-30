@@ -1,20 +1,26 @@
 ### Hi there, I'm [Mashfy](https://mashfy.github.io/Mashfy/)
 
 ## I'm a 3rd year undergraduate majoring in Computer Science at [SUST](https://www.sust.edu/)
--  I'm gaining skills in Software and web development, Graphics Designing
--  I’m currently trying to taste everything I explore in CS
--  A dreamer
+
+- I'm gaining skills in Software and web development, Graphics Designing
+- I’m currently trying to taste everything I explore in CS
+- A dreamer
 
 ### Spotify Playing 🎧
- 
+
 &nbsp; <br> [![Spotify](https://novatorem-git-master-mashfy.vercel.app/api/spotify)](https://open.spotify.com/user/31owd2iokwd26vgpd2d5bc6zff7e)
 
 ### Connect with me:
 
+<br />
+badrulalamsiddique@gmail.com
+<br />
+<br />
+
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" />](https://www.facebook.com/badrul.mash/)
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />](https://www.linkedin.com/in/mashfy/)
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />](https://www.instagram.com/badrul_alam__/)
-
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />](https://github.com/Mashfy)
 
 <br />
 
@@ -44,5 +50,3 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mashfy&layout=compact)](https://github.com/Mashfy)
-
-
