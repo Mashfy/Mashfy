@@ -12,9 +12,7 @@
 
 ### Connect with me:
 
-<br />
 badrulalamsiddique@gmail.com
-<br />
 <br />
 
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" />](https://www.facebook.com/badrul.mash/)
