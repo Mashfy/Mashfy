@@ -1,14 +1,8 @@
 ### Hi there, I'm [Mashfy](https://mashfy.github.io/Mashfy/)
 
-## I'm a final year undergraduate majoring in Computer Science at [SUST](https://www.sust.edu/)
+## I'm a final year undergraduate majoring in Computer Science at [SUST](https://www.sust.edu/). Check out my repos to get a gist about my projects and my abilities.
 
-- I'm gaining skills in Software and web development, Graphics Designing
-- I’m currently trying to taste everything I explore in CS
-- A dreamer
-
-### Spotify Playing 🎧
-
-&nbsp; <br> [![Spotify](https://novatorem-git-master-mashfy.vercel.app/api/spotify)](https://open.spotify.com/user/31owd2iokwd26vgpd2d5bc6zff7e)
+- I’m currently working on my thesis which is a computer vision problem (Visual Question Answering: VQA)
 
 ### Connect with me:
 
