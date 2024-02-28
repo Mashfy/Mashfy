@@ -1,8 +1,12 @@
 ### Hi there, I'm [Mashfy](https://mashfy.github.io/Mashfy/)
 
-## I'm a final year undergraduate majoring in Computer Science at [SUST](https://www.sust.edu/). Check out my repos to get a gist about my projects and my abilities.
-
-- I’m currently working on my thesis which is a computer vision problem (Visual Question Answering: VQA)
+A graduate from SUST majored in CSE and currently working as an Associate Software Engineer at Streams Tech LTD. 
+• Deeply passionate for coding and problem-solving.
+• Expertise in software and web development, IoT, and Robotics.
+• Thriving in fast-paced environments, where technical skills innovate.
+• New tech excites me, and using it for diverse challenges stimulates me.
+• Associate Software Engineer, with collaborative and dedicated intent.
+• Focused on quality results delivery, adaptive and professionally bent.
 
 ### Connect with me:
 
