@@ -1,6 +1,6 @@
 ### Hi there, I'm [Mashfy](https://mashfy.github.io/Mashfy/)
 
-A graduate from SUST majored in CSE and currently working as an Associate Software Engineer at Streams Tech LTD. 
+Software Engineer (L1) at Streams Tech LTD and a graduate from SUST majored in CSE. 
 
 • Deeply passionate for coding and problem-solving.
 
@@ -8,7 +8,7 @@ A graduate from SUST majored in CSE and currently working as an Associate Softwa
 
 • Thriving in fast-paced environments, where technical skills innovate.
 
-• Associate Software Engineer, with collaborative and dedicated intent.
+• Software Engineer (L1), with collaborative and dedicated intent.
 
 • Focused on quality results delivery, adaptive and professionally bent.
 
