@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Mashfy</h1>
-<p align="center"><i>Backend-heavy Full Stack Engineer @ Streams Tech Ltd</i></p>
+<h3 align="center">Hi, I'm Mashfy</h3>
 
 ---
 
+- Software Engineer
 - Building scalable APIs, ETL pipelines & offline-first mobile apps
 - Wrangling big PostgreSQL databases into shape
 - Currently exploring AI-assisted engineering workflows
