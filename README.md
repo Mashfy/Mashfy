@@ -9,7 +9,7 @@
 ### What I Work With
 
 **Backend & APIs**<br>
-C# · .NET Core · Node.js · Java
+C# · .NET Core · Node.js · Java · Python
 
 **Data & Databases**<br>
 PostgreSQL · MS SQL Server · MongoDB · SQLite · Airflow
