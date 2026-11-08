@@ -1,0 +1,39 @@
+{
+  "name": "mashfy-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "homepage": "https://mashfy.github.io/Mashfy",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@fortawesome/fontawesome-svg-core": "^7.3.1",
+    "@fortawesome/free-brands-svg-icons": "^7.3.1",
+    "@fortawesome/free-solid-svg-icons": "^7.3.1",
+    "@fortawesome/react-fontawesome": "^3.5.0",
+    "@mui/icons-material": "^9.5.0",
+    "@mui/material": "^9.5.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-vertical-timeline-component": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@types/react-vertical-timeline-component": "^3.3.6",
+    "@vitejs/plugin-react": "^6.2.1",
+    "gh-pages": "^6.3.0",
+    "sass-embedded": "^1.108.1",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.6"
+  }
+}

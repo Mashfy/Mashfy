@@ -1,8 +1,8 @@
 <h3 align="center">Hi, I'm Mashfy</h3>
 
-- Software Engineer
-- Building scalable APIs, ETL pipelines & offline-first mobile apps
-- Wrangling big PostgreSQL databases into shape
+- Manager, Technology Division at BRAC International
+- Previously led engineering for BInsight, BRAC International's MEL platform serving 30,000+ field users
+- Data platforms, database architecture & delivery at scale
 - Currently exploring AI-assisted engineering workflows
 - Reach me on [LinkedIn](https://www.linkedin.com/in/mashfy/)
 
