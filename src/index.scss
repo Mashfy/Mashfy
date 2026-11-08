@@ -113,7 +113,10 @@ p, a, h1, h2, h3, h4, h5, label, button {
   }
 
   .about-section {
-    background-image: url("./assets/images/bg-light.png");
+    // light veil over the wave pattern so it stays a quiet backdrop
+    background-image:
+      linear-gradient(rgba(248, 249, 250, 0.8), rgba(248, 249, 250, 0.8)),
+      url("./assets/images/bg-light.png");
   }
 
   .skills-container svg {

@@ -19,7 +19,7 @@ export const profile = {
   title: "Manager, Technology Division",
   organization: "BRAC International",
   tagline:
-    "I lead technology strategy and delivery across BRAC International's multi-country programmes, from roadmap and requirement discovery through UAT, release and stabilisation. My work spans system architecture, high-volume PostgreSQL engineering, ETL and data pipelines, offline-first mobile platforms, and system integration. I turn business and operational needs into secure, scalable systems, with role-based access, approval workflows and KPI reporting that let teams act confidently on field data.",
+    "I lead technology strategy and delivery across BRAC International's multi-country programmes. My work spans system architecture, data pipelines and offline-first platforms, turning operational needs into secure, scalable systems.",
   location: "Dhaka, Bangladesh",
   email: "badrulalamsiddique@gmail.com",
   github: "https://github.com/Mashfy",
