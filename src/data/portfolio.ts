@@ -19,7 +19,7 @@ export const profile = {
   title: "Manager, Technology Division",
   organization: "BRAC International",
   tagline:
-    "Leading technology strategy and delivery for data platforms that serve 30,000+ field users across multiple countries.",
+    "I lead technology strategy and delivery across BRAC International's multi-country programmes, from roadmap and requirement discovery through UAT, release and stabilisation. My work spans system architecture, high-volume PostgreSQL engineering, ETL and data pipelines, offline-first mobile platforms, and system integration. I turn business and operational needs into secure, scalable systems, with role-based access, approval workflows and KPI reporting that let teams act confidently on field data.",
   location: "Dhaka, Bangladesh",
   email: "badrulalamsiddique@gmail.com",
   github: "https://github.com/Mashfy",
@@ -117,11 +117,12 @@ export const timeline: TimelineEntry[] = [
     organization: "BRAC International",
     location: "Dhaka, Bangladesh",
     date: "Nov 2026 – Present",
-    summary:
-      "Joined BRAC International to lead technology direction, after 3.5+ years on the vendor side as the engineering and delivery partner for its flagship MEL platform.",
     highlights: [
-      "Shaping technology strategy and roadmap across BRAC International's multi-country programmes.",
-      "Aligning data platforms, governance and reporting with organisational and country-office priorities.",
+      "Lead technology strategy and roadmap across BRAC International's multi-country programmes, aligning IT initiatives with organisational digitisation priorities.",
+      "Manage end-to-end delivery of technology initiatives, from requirement discovery and solution design to UAT, release and stabilisation, working with internal teams, partners and vendors.",
+      "Align data platforms, access governance and KPI reporting with organisational and country-office priorities.",
+      "Own system integration and data-exchange design between source and target systems, balancing quality, timelines and value for money.",
+      "Drive cross-functional collaboration with head-office and country-office stakeholders, applying change management, training and adoption practices.",
     ],
   },
   {

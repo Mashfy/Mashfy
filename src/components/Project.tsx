@@ -12,14 +12,16 @@ function ProjectCard({ project }: { project: ProjectEntry }) {
     return (
         <div className="project">
             <MaybeLink href={project.link}>
-                {project.image ? (
-                    <img src={project.image} className="project-cover-image zoom" alt={`${project.name} cover`} loading="lazy" />
-                ) : (
-                    <div className="project-cover zoom">
-                        <span className="project-category">{project.category}</span>
-                        <span className="project-cover-title">{project.name}</span>
-                    </div>
-                )}
+                <div className="project-frame">
+                    {project.image ? (
+                        <img src={project.image} className="project-cover-image" alt={`${project.name} cover`} loading="lazy" />
+                    ) : (
+                        <div className="project-cover">
+                            <span className="project-category">{project.category}</span>
+                            <span className="project-cover-title">{project.name}</span>
+                        </div>
+                    )}
+                </div>
             </MaybeLink>
             <MaybeLink href={project.link}>
                 <h2 className={project.link ? 'linked' : undefined}>{project.name}</h2>
