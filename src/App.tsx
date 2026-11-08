@@ -13,15 +13,28 @@ import FadeIn from './components/FadeIn';
 import './index.scss';
 
 function App() {
-    const [mode, setMode] = useState<string>('dark');
+    // Light mode by default; remember the visitor's choice.
+    const [mode, setMode] = useState<string>(() => {
+        try {
+            return localStorage.getItem('theme') === 'dark' ? 'dark' : 'light';
+        } catch {
+            return 'light';
+        }
+    });
 
     const handleModeChange = () => {
-        if (mode === 'dark') {
-            setMode('light');
-        } else {
-            setMode('dark');
-        }
+        setMode((prev) => (prev === 'dark' ? 'light' : 'dark'));
     }
+
+    useEffect(() => {
+        try {
+            localStorage.setItem('theme', mode);
+        } catch {
+            // storage unavailable (e.g. private mode): ignore
+        }
+        document.querySelector('meta[name="theme-color"]')
+            ?.setAttribute('content', mode === 'dark' ? '#0d1116' : '#f8f9fa');
+    }, [mode]);
 
     useEffect(() => {
         window.scrollTo({top: 0, left: 0, behavior: 'smooth'});
